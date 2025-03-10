@@ -40,7 +40,7 @@ We experimented with multiple classifiers, and **Random Forest** performed the b
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Deepakjd-dev/final_education.git
-   cd sfinal_education
+   cd final_education
    ```
 2. **Install dependencies**
    ```bash
