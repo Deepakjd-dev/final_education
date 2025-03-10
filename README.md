@@ -39,8 +39,8 @@ We experimented with multiple classifiers, and **Random Forest** performed the b
 ## 📌 How to Run the Project
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/student-performance-prediction.git
-   cd student-performance-prediction
+   git clone https://github.com/Deepakjd-dev/final_education.git
+   cd sfinal_education
    ```
 2. **Install dependencies**
    ```bash
@@ -48,7 +48,7 @@ We experimented with multiple classifiers, and **Random Forest** performed the b
    ```
 3. **Run the Python script**
    ```bash
-   python student_performance.py
+   python final_education.py
    ```
 
 ## 🚀 Future Enhancements
@@ -57,7 +57,7 @@ We experimented with multiple classifiers, and **Random Forest** performed the b
 🔹 Deploy the model using Flask/Streamlit for real-time predictions
 
 ## 🏆 Contributors
-👨‍💻 **Your Name** – [GitHub Profile](https://github.com/your-username)
+👨‍💻 **Your Name** – [GitHub Profile](https://github.com/Deepakjd-dev)
 
 ## 📜 License
 This project is licensed under the **MIT License**. Feel free to use and modify!
